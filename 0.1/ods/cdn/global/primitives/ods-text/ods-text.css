@@ -1,0 +1,47 @@
+.ods-text{
+/* global-primitives-text */
+color:var(--ods-text-color); 
+line-height:var(--ods-text-line-height);
+letter-spacing:var(--ods-text-letter-spacing);
+text-align:var(--ods-text-text-align);
+text-decoration:var(--ods-text-text-decoration);
+text-indent:var(--ods-text-text-indent);
+text-transform:var(--ods-text-text-transform); 
+font-family:var(--ods-text-font-family);
+font-size:var(--ods-text-font-size); 
+font-style:var(--ods-text-font-style); 
+font-variant:var(--ods-text-font-variant);
+font-weight:var(--ods-text-font-weight);
+width: var(--ods-text-width); 
+height: var(--ods-text-height);
+display: var(--ods-text-display);
+background: var(--ods-text-background);
+overflow:var(--ods-text-overflow);
+overflow-x:var(--ods-text-overflow-x);
+overflow-y:var(--ods-text-overflow-y);
+cursor:var( --ods-text-cursor);
+ 
+}
+.ods-text:hover{
+/* global-primitives-text */
+color:var(--ods-text-hover-color); 
+line-height:var(--ods-text-hover-line-height);
+letter-spacing:var(--ods-text-hover-letter-spacing);
+text-align:var(--ods-text-hover-text-align);
+text-decoration:var(--ods-text-hover-text-decoration);
+text-indent:var(--ods-text-hover-text-indent);
+text-transform:var(--ods-text-hover-text-transform); 
+font-family:var(--ods-text-hover-font-family);
+font-size:var(--ods-text-hover-font-size); 
+font-style:var(--ods-text-hover-font-style); 
+font-variant:var(--ods-text-hover-font-variant);
+font-weight:var(--ods-text-hover-font-weight);
+width: var(--ods-text-hover-width); 
+height: var(--ods-text-hover-height);
+display: var(--ods-text-hover-display);
+background: var(--ods-text-hover-background);
+overflow:var(--ods-text-hover-overflow);
+overflow-x:var(--ods-text-hover-overflow-x);
+overflow-y:var(--ods-text-hover-overflow-y);
+ cursor:var( --ods-text-hover-cursor);
+}

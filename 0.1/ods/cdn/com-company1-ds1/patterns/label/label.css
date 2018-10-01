@@ -1,0 +1,22 @@
+@import "http://localhost/ods/cdn/com-company1-ds1/derivatives/ds1text/ds1text.css";
+/*while creating pattern add all derivatives used in the above */
+
+.com-company1-ds1.label {
+/* overriding default pattern entity values */
+--ods-p-width:200px;
+--ods-p-height:50px;
+--ods-p-background:green;
+--ods-p-border:1px solid black;
+--ods-p-display:inline-block;
+--ods-p-padding:15px;
+ 
+}
+
+ 
+.com-company1-ds1.label     .ds1text{
+--ods-d-position:relative;
+--ods-d-border:1px dotted black; 
+ 
+}
+
+

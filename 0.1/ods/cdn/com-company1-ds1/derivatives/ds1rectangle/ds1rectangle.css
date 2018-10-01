@@ -1,0 +1,18 @@
+@import "http://localhost/ods/cdn/global/primitives/ods-shape/ods-shape.css";
+/*while creating derivative import the pattern and then add modification ..this is to ensure that it works even if it does not globally import the design system css of which the primitive belongs to   */
+
+.com-company1-ds1 .ds1rectangle{
+--ods-shape-background: #337AFF;
+--ods-shape-width:150px;
+--ods-shape-height:50px;
+ 
+
+}
+
+
+.com-company1-ds1 .ds1rectangle:hover{
+--ods-shape-hover-background: #33E0FF;
+--ods-shape-hover-width:150px;
+--ods-shape-hover-height:50px;
+ 
+}

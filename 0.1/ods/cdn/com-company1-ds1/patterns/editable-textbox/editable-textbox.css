@@ -1,0 +1,22 @@
+@import "http://localhost/ods/cdn/com-company1-ds1/derivatives/ds1textbox/ds1textbox.css";
+@import "http://localhost/ods/cdn/com-company1-ds1/derivatives/ds1textboxtext/ds1textboxtext.css";
+
+
+/*while creating pattern add all derivatives used in the above */
+
+.com-company1-ds1.editable-textbox {
+/* overriding default pattern entity values */
+
+}
+
+ 
+.com-company1-ds1.editable-textbox  .ds1textbox{
+  --ods-text-cursor:text;
+ --ods-text-hover-cursor:text;
+} 
+.com-company1-ds1.editable-textbox  .ds1textboxtext{
+  --ods-text-cursor:text;
+ --ods-text-hover-cursor:text;
+} 
+
+

@@ -1,0 +1,31 @@
+@import "http://localhost/ods/cdn/global/primitives/ods-text/ods-text.css";
+/*while creating derivative import the pattern and then add modification ..this is to ensure that it works even if it does not globally import the design system css of which the primitive belongs to   */
+
+.com-company1-ds1 .ds1text{
+--ods-text-color: #666;
+--ods-text-text-align: center; 
+--ods-text-font-size:18px; 
+--ods-text-line-height:18px; 
+--ods-text-background: #fafafa; 
+
+
+/*
+If something has to be hard coded and fixed that are not going to change you can do so by adding direct css properties. Not recommended though. 
+color:var(--ods-text-color);
+font-weight:var(--ods-text-font-weight);
+*/
+
+}
+
+
+.com-company1-ds1 .ds1text:hover{
+
+--ods-text-hover-color: #666;
+--ods-text-hover-text-align: center; 
+--ods-text-hover-font-size:18px; 
+--ods-text-hover-line-height:18px; 
+--ods-text-hover-background: #fafafa; 
+
+
+
+}

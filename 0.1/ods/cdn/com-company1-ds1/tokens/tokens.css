@@ -1,0 +1,85 @@
+:root{
+/* com-company1-ds1 tokens shape overriding value */
+--ods-shape-background:red;
+--ods-shape-width:50px;
+--ods-shape-height:100px;
+--ods-shape-display:inline-block;
+
+
+
+--ods-shape-hover-background:red;
+--ods-shape-hover-width:50px;
+--ods-shape-hover-height:100px;
+--ods-shape-hover-display:inline-block;
+
+/* com-company1-ds1 tokens image overriding value */
+--ods-image-border:solid 1px line;
+--ods-image-hover-border:solid 1px line;
+
+/* com-company1-ds1 tokens text overriding value */
+--ods-text-color:yellow; /*black, white red etc. or #000000, #ffffff; #ff0000 etc. */
+--ods-text-line-height:16px;
+--ods-text-text-align:center;
+--ods-text-font-family: "verdana";/*"times", "courier", "arial" etc. or generic names like "serif", "sans-serif", "cursive", "fantasy", "monospace"*/
+--ods-text-font-size:16px; /*xx-small, x-small, small, medium, large, x-large, xx-large, smaller, larger, length, %, inherit*/
+--ods-text-font-weight:bold;/*normal, bold, bolder, lighter,  100, 200, 300, 400, 500, 600, 700, 800, 900, inherit*/
+
+--ods-text-hover-color:yellow; /*black, white red etc. or #000000, #ffffff; #ff0000 etc. */
+--ods-text-hover-line-height:16px;
+--ods-text-hover-text-align:center;
+--ods-text-hover-font-family: "verdana";/*"times", "courier", "arial" etc. or generic names like "serif", "sans-serif", "cursive", "fantasy", "monospace"*/
+--ods-text-hover-font-size:16px; /*xx-small, x-small, small, medium, large, x-large, xx-large, smaller, larger, length, %, inherit*/
+--ods-text-hover-font-weight:bold;/*normal, bold, bolder, lighter,  100, 200, 300, 400, 500, 600, 700, 800, 900, inherit*/
+
+
+
+
+/* global-derivative changes can be added if any 
+--ods-d-position:relative;
+--ods-d-left:0px;
+--ods-d-top:0px;
+
+ */
+
+/* global-pattern changes can be added if any 
+--ods-p-position:relative;
+--ods-p-left:0px;
+--ods-p-top:0px;
+
+ */
+
+
+/* global-template changes can be added if any 
+--ods-t-position:relative;
+--ods-t-left:0px;
+--ods-t-top:0px;
+
+ */
+
+/* global-view changes can be added if any 
+--ods-v-position:relative;
+--ods-v-left:0px;
+--ods-v-top:0px;
+
+ */
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

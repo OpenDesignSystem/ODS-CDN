@@ -1,0 +1,1 @@
+com.company1.ds1 can define their new pattern here like global ods which can be extended by others 

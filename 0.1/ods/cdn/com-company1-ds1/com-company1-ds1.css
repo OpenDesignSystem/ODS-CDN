@@ -1,0 +1,7 @@
+@import "http://localhost/ods/cdn/global/global.css?";
+@import"http://localhost/ods/cdn/com-company1-ds1/tokens/tokens.css?";
+/* NOTE: if you have any new primitives defined you can import them too here @import"http://localhost/ods/cdn/com-company1-ds1/primitives/foo/foo.css";   */
+ 
+/* ****************************************************** This is DS1 specific global tokens  **************************************************** */ 
+
+ 

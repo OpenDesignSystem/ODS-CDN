@@ -1,0 +1,20 @@
+@import "http://localhost/ods/cdn/com-company1-ds1/derivatives/ds1transtext/ds1transtext.css";
+@import "http://localhost/ods/cdn/com-company1-ds1/derivatives/ds1rectangle/ds1rectangle.css";
+/*while creating pattern add all derivatives used in the above */
+
+.com-company1-ds1.button {
+/* overriding default pattern entity values */
+
+}
+
+ 
+.com-company1-ds1.button  .ds1transtext{
+  --ods-text-cursor:pointer;
+ --ods-text-hover-cursor:pointer;
+}
+.com-company1-ds1.button  .ds1rectangle{
+ --ods-shape-cursor:pointer;
+ --ods-shape-hover-cursor:pointer;
+}
+
+
